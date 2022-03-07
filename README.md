@@ -60,6 +60,6 @@ O BrowserRouter deverá ter a seguinte sintaxe:
 Após alteração `npm run deploy` sempre.
 
 
-Follow me:
+Follow me: <br/>
 [LinkedIn - Elielson Nascimento](https://www.linkedin.com/in/elielsondev/)<br/>
-[GitHub - Elielson Nascimento](https://github.com/elielsondev)
+[GitHub - Elielson Nascimento](https://github.com/elielsondev)<br/>
