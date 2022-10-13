@@ -58,9 +58,3 @@ O BrowserRouter deverá ter a seguinte sintaxe:
 </BrowserRouter>
 ```
 Após alteração `npm run deploy` sempre.
-
-
-Follow me: <br/>
-[LinkedIn - Elielson Nascimento](https://www.linkedin.com/in/elielsondev/)<br/>
-[GitHub - Elielson Nascimento](https://github.com/elielsondev)<br/>
-[Portfolio - Elielson Nascimento](https://elielsondev.github.io/my-portfolio)
